@@ -9,16 +9,29 @@ I'm Arterio a teacher, mentor, and motivated computer science major with experie
 * 📕 VS Code, IDLE, Office Suite
 * 💻 C++, Pthon, HTML, CSS, JavaScript, Bash
 
-## Experience 
+## Experience  
 
-:---        | ---:
---------------------             | -------------
-Career Development Services
-IT Specialist                    | New York, NY April 2022 - Present
-Hunter College CS Department
-College Assistant                |  \|
+Career Development Services                         New York, NY April 2022 - Present
+IT Specialist                     
 
+Hunter College CS Department                        New York, NY September 2019 - Present 
+College Assistant               
 
+Markup :  `code()`
+   var specificLanguage_code = 
+    {
+        "data": {
+            "lookedUpPlatform": 1,
+            "query": "Kasabian+Test+Transmission",
+            "lookedUpItem": {
+                "name": "Test Transmission",
+                "artist": "Kasabian",
+                "album": "Kasabian",
+                "picture": null,
+                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
+            }
+        }
+    }
 
 <!--
 [![ArterioRodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArterioRodrigues)](https://github.com/anuraghazra/github-readme-stats)
