@@ -11,7 +11,7 @@ I'm Arterio a teacher, mentor, and motivated computer science major with experie
 
 ## Experience 
 
-Left aligned Header              | Right aligned Header
+:---        | ---:
 --------------------             | -------------
 Career Development Services
 IT Specialist                    | New York, NY April 2022 - Present
