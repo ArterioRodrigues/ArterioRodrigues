@@ -22,14 +22,12 @@ Full Stack Fitness Website
 
 ## Experience  
 
-Career Development Services  ---- April 2022 - Present
-IT Specialist                     
+Career Development Services IT Specialist   ---- April 2022 - Present
+                    <br/>
+Hunter College CS Department College Assistant ---- September 2019 - Present 
 
-Hunter College CS Department ---- September 2019 - Present 
-College Assistant               
+Hunter College Chess Club Vice President   ---- Spring 2022 Semester 
 
-Hunter College Chess Club    ---- Spring 2022 Semester 
-Vice President
 
 
 
