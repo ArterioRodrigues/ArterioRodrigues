@@ -13,23 +13,24 @@ Stock Market Predictions
 Full Stack Fitness Website
 * Built with React, Node.js, Python and Postgres SQL
 
-
-
-
 ## Skills
 * ⚛ React
 * 📱 React Native
 * 🔗 Github Jenkins Gradle
-* 📕 VS Code, IDLE, Office Suite
+* 📕 VS Code, IDLE, Office Suite, PG Admin
 * 💻 C++, Pthon, HTML, CSS, JavaScript, Bash
 
 ## Experience  
 
-Career Development Services                         New York, NY April 2022 - Present
+Career Development Services                        April 2022 - Present
 IT Specialist                     
 
-Hunter College CS Department                        New York, NY September 2019 - Present 
+Hunter College CS Department                       September 2019 - Present 
 College Assistant               
+
+Hunter College Chess Club                          Spring 2022 Semester 
+Vice President
+
 
 
 ---
