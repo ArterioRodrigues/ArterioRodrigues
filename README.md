@@ -11,12 +11,12 @@ I'm Arterio a teacher, mentor, and motivated computer science major with experie
 
 ## Experience 
 
+Left aligned Header              | Right aligned Header
+--------------------             | -------------
 Career Development Services
-IT Specialist 
-    * Responsible for maintaining/updating the CDS website Career Hunter, the job/internship database including publicity, reporting, data entry and supervision of
-      data entry
-    * Develop and manage projects and assignments at the discretion of the Director of Career Development Services
-    * Design python programs to automate tasks
+IT Specialist                    | New York, NY April 2022 - Present
+Hunter College CS Department
+College Assistant                |  \|
 
 
 
