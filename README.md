@@ -11,24 +11,13 @@ I'm Arterio a teacher, mentor, and motivated computer science major with experie
 
 ## Experience 
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+Career Development Services
+IT Specialist 
+    * Responsible for maintaining/updating the CDS website Career Hunter, the job/internship database including publicity, reporting, data entry and supervision of
+      data entry
+    * Develop and manage projects and assignments at the discretion of the Director of Career Development Services
+    * Design python programs to automate tasks
 
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
 
 
 <!--
