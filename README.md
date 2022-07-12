@@ -34,10 +34,10 @@ Vice President
 
 
 ## Connect with me:
-<p align="left">
+<p >
 <a href="https://www.linkedin.com/in/arterio-rodrigues-7559791ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arteriorodrigues" height="30" width="40" /></a>
   
-<a href="https://github.com/ArterioRodrigues" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="arteriorodrigues" height="30" width="40" /></a>
+<a href="https://github.com/ArterioRodrigues" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="arteriorodrigues" height="30" width="40" /></a>
 </p>
 
 
