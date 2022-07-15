@@ -31,8 +31,8 @@ Hunter College CS Department ---- September 2019 - Present   <br/>
 Hunter College Chess Club   ---- Spring 2022 Semester  <br/>
 *Vice President*
 
-<embed src="resume.pdf" type="application/pdf">
 
+[resume.pdf](./resume.pdf)
 ## Connect with me:
 <p >
 <a href="https://www.linkedin.com/in/arterio-rodrigues-7559791ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arteriorodrigues" height="30" width="40" /></a>
