@@ -2,7 +2,7 @@
 
 I'm Arterio a teacher, mentor, and motivated computer science major with experience working with C++, Python, Javascript, React and Bash languages and multiple CI/CD pipelines. Knowledgable on full stack development with a express interest in front end development (Based in React). Excellent problem-solving and time managment skills. [resume.pdf](./resume.pdf)
 
-## Projects
+## Current Projects
 
 Stock Market Predictions 
 
@@ -19,18 +19,6 @@ Full Stack Fitness Website
 * 🔗 Github Jenkins Gradle
 * 📕 VS Code, IDLE, Office Suite, PG Admin
 * 💻 C++, Pthon, HTML, CSS, JavaScript, Bash, Node, Express
-
-## Experience  
-
-Career Development Services   ---- April 2022 - Present  <br/>
-*IT Specialist*
-                   
-Hunter College CS Department ---- September 2019 - Present   <br/>
-*College Assistant*
-
-Hunter College Chess Club   ---- Spring 2022 Semester  <br/>
-*Vice President*
-
 
 
 ## Connect with me:
