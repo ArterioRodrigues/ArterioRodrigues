@@ -31,7 +31,7 @@ Hunter College CS Department ---- September 2019 - Present   <br/>
 Hunter College Chess Club   ---- Spring 2022 Semester  <br/>
 *Vice President*
 
-
+<embed src="/resume.pdf" type="application/pdf">
 
 ## Connect with me:
 <p >
