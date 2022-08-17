@@ -5,6 +5,9 @@ I'm Arterio a teacher, mentor, and motivated computer science major with experie
 ## Current Projects
 
 Wave Collapse Map Generation 🗺
+* Genrate a 2d map base on a wave collapse function
+* Build in c++ so far
+* Planning to move to so front end mabye react or just javascript
 
 ## Skills
 * ⚛ React
