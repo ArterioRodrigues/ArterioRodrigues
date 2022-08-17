@@ -4,14 +4,7 @@ I'm Arterio a teacher, mentor, and motivated computer science major with experie
 
 ## Current Projects
 
-Stock Market Predictions 
-
-* Python program using an LSTM model and machine learning
-* Predicts stock prices within 8% inaccuracy 
-* Used over 15,000 data entries
-
-Full Stack Fitness Website
-* Built with React, Node.js, Python and Postgres SQL
+Wave Collapse Map Generation 🗺
 
 ## Skills
 * ⚛ React
