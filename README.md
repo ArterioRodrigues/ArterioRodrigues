@@ -24,6 +24,18 @@ Wave Collapse
 * Python to generate the mape
 * <a href= 'https://github.com/ArterioRodrigues/wave_collapse-'> **Code** </a> 
 
+Hunter College Chess Club Website
+* A website for the chess club
+* Displays events
+* Will have api calls to generate a pair page for tournaments
+* <a href= 'https://github.com/ArterioRodrigues/HunterChessClub'> **Code** </a> 
+
+Stock Prediction
+* Uses LSTM model to generate a list of 60 next possible closing values
+* Uses api calls and machine learning 
+* Built with python 
+* <a href= 'https://github.com/ArterioRodrigues/stock_prediction'> **Code** </a> 
+
 ## Skills
 * ⚛ React
 * 📱 React Native
