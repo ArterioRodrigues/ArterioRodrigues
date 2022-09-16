@@ -14,7 +14,7 @@ A teacher, mentor, and motivated computer science major with experience working 
 * Plan to learn asm by making a game
 * I am think either snake or something a little so intense like mario
 * Planning to start this week
-* <a href= 'https://github.com/ArterioRodrigues/asm_game-'> **Code** </a> 
+* <a href= 'https://github.com/ArterioRodrigues/asm_game'> **Code** </a> 
 
 ## Finished Projects
 
