@@ -14,7 +14,15 @@ A teacher, mentor, and motivated computer science major with experience working 
 * Plan to learn asm by making a game
 * I am think either snake or something a little so intense like mario
 * Planning to start this week
-<!--- * <a href= 'https://github.com/ArterioRodrigues/wave_collapse-'> **Code** </a> --->
+* <a href= 'https://github.com/ArterioRodrigues/asm_game-'> **Code** </a> 
+
+## Finished Projects
+
+Wave Collapse
+* Generates a map with a wave collapse function
+* Use C++ to make 2 class nodes and map for creating a map
+* Python to generate the mape
+* <a href= 'https://github.com/ArterioRodrigues/wave_collapse-'> **Code** </a> 
 
 ## Skills
 * ⚛ React
