@@ -36,6 +36,12 @@ Stock Prediction
 * Built with python 
 * <a href= 'https://github.com/ArterioRodrigues/stock_prediction'> **Code** </a> 
 
+Pong in ASM
+* Written all in assemble 
+* Basic project but useful for learing ASM
+* Main purpose was to learn ASM x86
+* <a href= 'https://github.com/ArterioRodrigues/asm_game/tree/main/pong'> **Code** </a> 
+
 ## Skills
 * ⚛ React
 * 📱 React Native
