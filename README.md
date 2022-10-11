@@ -10,10 +10,10 @@ A teacher, mentor, and motivated computer science major with experience working 
 
 ## Current Projects
 
-2d Game written in ASM
-* Plan to learn asm by making a game
-* I am think either snake or something a little so intense like mario
-* Planning to start this week
+Neural Network
+* Plan to build a neural network
+* Trying to do it from scartch with basic help
+* My goal is to do it with as little extrenal help
 * <a href= 'https://github.com/ArterioRodrigues/asm_game'> **Code** </a> 
 
 ## Finished Projects
