@@ -14,7 +14,7 @@ Neural Network
 * Plan to build a neural network
 * Trying to do it from scartch with basic help
 * My goal is to do it with as little extrenal help
-* <a href= 'https://github.com/ArterioRodrigues/asm_game'> **Code** </a> 
+* <a href= 'https://github.com/ArterioRodrigues/LifeModel'> **Code** </a> 
 
 ## Finished Projects
 
