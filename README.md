@@ -42,6 +42,13 @@ Pong in ASM
 * Main purpose was to learn ASM x86
 * <a href= 'https://github.com/ArterioRodrigues/asm_game/tree/main/pong'> **Code** </a> 
 
+Broken Link Scraper
+* Check a url for all broken links
+* Full stack project front end-(Html, Css, Javascript) / Backend-(Nodejs)
+* Main purpose pratice full cycle development
+* <a href= 'https://github.com/ArterioRodrigues/Scraper'> **Code** </a> 
+* <a href= 'https://arteriorodrigues.github.io/Scraper/'> **Website** </a> 
+
 ## Skills
 * ⚛ React
 * 📱 React Native
