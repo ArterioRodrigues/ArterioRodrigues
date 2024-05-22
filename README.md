@@ -1,4 +1,4 @@
-<center> <img src = "./space-gooose-lofi-artstation.jpg"  alt = "coding"  width = "100%" height = "200px" object-fit = "cover" overflow = "hidden"> </center>
+<center> <img src = "./space-gooose-lofi-artstation.jpg"  alt = "coding"  width = "100%" height = "200px"  overflow = "hidden"> </center>
 
 ### Hi there 👋 I'm **Arterio Rodrigues**
 
