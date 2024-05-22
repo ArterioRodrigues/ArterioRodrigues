@@ -1,4 +1,4 @@
-<center> <img src = "./space-gooose-lofi-artstation.jpg"  alt = "coding"  width = "1000px" height = "auto"> </center>
+<center> <img src = "./space-gooose-lofi-artstation.jpg"  alt = "coding"  width = "800px" height = "auto"> </center>
 
 ### Hi there 👋 I'm **Arterio Rodrigues**
 
