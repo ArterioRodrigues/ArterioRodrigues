@@ -6,7 +6,7 @@
 
 Full-stack engineer at **JetBlue** and CS master's student at **Hunter College**. By day I work in TypeScript with Next.js and NestJS; on the side I like building things from scratch — operating systems, web frameworks, evolution simulators, flight controllers — to figure out how they actually work under the hood.
 
-📄 [Resume.pdf](./Resume.pdf)  ·  🧠 [LeetCode](https://leetcode.com/u/NeroSecre/)
+📄 [Resume.pdf](./resume.pdf)  ·  🧠 [LeetCode](https://leetcode.com/u/NeroSecre/)
 
 ---
 
